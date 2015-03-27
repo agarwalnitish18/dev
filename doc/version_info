@@ -1,0 +1,5 @@
+v A.B.C
+
+ A: Major version
+ B: Release Type version (Odd numbers are stable, Even numbers are unstable)
+ C: Minor version
